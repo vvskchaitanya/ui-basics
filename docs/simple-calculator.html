@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Simple Calculator</title>
+<style>
+</style>
+</head>
+<body>
+
+<p style="color:#009900; 
+              font-size:50px; 
+              font-style:italic; 
+              text-align:center;">
+        Simple Calculator
+    </p>
+
+<div>
+<div class="input1">
+<label>Input1</label>
+<input id="x" type="number" />
+</div>
+<br/>
+<div class="input2">
+<label>Input2</label>
+<input id="y" type="number" />
+<br/>
+</div>
+<button style="background:red;font-weight:bold;font-size:20px" onclick="add()">Add</button>
+<button style="background:green;font-style:italic;font-size:20px" onclick="subtract()">Subtract</button>
+<button style="background:yellow;text-decoration:underline;font-size:20px" onclick="multiply()">Multiply</button>
+
+<p>Result is <input id="z" /></p>
+
+</div>
+</body>
+<script>
+add=function(){
+	var x=document.getElementById("x").value;
+	var y=document.getElementById("y").value;
+	var z = parseInt(x)+parseInt(y);
+	console.log(x,y,z);
+	document.getElementById("z").value = z;
+}
+subtract=function(){
+	var x=document.getElementById("x").value;
+	var y=document.getElementById("y").value;
+	var z = parseInt(x)-parseInt(y);
+	console.log(x,y,z);
+	document.getElementById("z").value = z;
+}
+multiply=function(){
+	var x=document.getElementById("x").value;
+	var y=document.getElementById("y").value;
+	var z = parseInt(x)*parseInt(y);
+	console.log(x,y,z);
+	document.getElementById("z").value = z;
+}
+</script>
+
+<style>
+button{
+margin:10px;
+padding: 5px;
+}
+div.input1, div.input2{
+	margin:5px;
+}
+div{
+ text-align:center;
+}
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+  text-align: center;
+}
+p.center{
+text-align:center;
+}
+p.large{
+font-size: 50px;
+}
+</style>
+</html>
