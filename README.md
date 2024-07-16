@@ -11,7 +11,7 @@
 - Margin & Padding - https://vvskchaitanya.github.io/ui-basics/css-examples/margin-padding.html
 
 ## JS Examples
-- Simple Calculator - https://vvskchaitanya.github.io/ui-basics/simple-html/simple-calculator.html
+- Simple Calculator - https://vvskchaitanya.github.io/ui-basics/js-examples/simple-calculator.html
 
 ## Bootstrap Examples
 - Bootstrap Example - https://vvskchaitanya.github.io/ui-basics/bootstrap-examples/movies.html
