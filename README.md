@@ -6,9 +6,17 @@
 - HTML Structure - https://vvskchaitanya.github.io/ui-basics/html-examples/html-structure.html
 
 ## CSS Examples
+- Custom CSS - https://vvskchaitanya.github.io/ui-basics/css-examples/custom-css.html
+- Text Styling - https://vvskchaitanya.github.io/ui-basics/css-examples/text-styling.html
+- Margin & Padding - https://vvskchaitanya.github.io/ui-basics/css-examples/margin-padding.html
 
+## JS Examples
 - Simple Calculator - https://vvskchaitanya.github.io/ui-basics/simple-html/simple-calculator.html
-- Bootstrap Example - https://vvskchaitanya.github.io/ui-basics/learn-bootstrap/movies.html
-- Bootstrap Responsive - https://vvskchaitanya.github.io/ui-basics/learn-bootstrap/movies-responsive.html
-- Jquery Example 1 - https://vvskchaitanya.github.io/ui-basics/learn-jquery/jquery1.html
-- Jquery Example 2 - https://vvskchaitanya.github.io/ui-basics/learn-jquery/jquery2.html
+
+## Bootstrap Examples
+- Bootstrap Example - https://vvskchaitanya.github.io/ui-basics/bootstrap-examples/movies.html
+- Bootstrap Responsive - https://vvskchaitanya.github.io/ui-basics/bootstrap-examples/movies-responsive.html
+
+## JQuery Examples
+- Jquery Example 1 - https://vvskchaitanya.github.io/ui-basics/jquery-examples/jquery1.html
+- Jquery Example 2 - https://vvskchaitanya.github.io/ui-basics/jquery-examples/jquery2.html
