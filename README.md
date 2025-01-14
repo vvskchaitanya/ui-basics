@@ -14,7 +14,6 @@
 - Simple Calculator - https://vvskchaitanya.github.io/ui-basics/js-examples/simple-calculator.html
 
 ## Bootstrap Examples
-- Bootstrap Example - https://vvskchaitanya.github.io/ui-basics/bootstrap-examples/movies.html
 - Bootstrap Responsive - https://vvskchaitanya.github.io/ui-basics/bootstrap-examples/movies-responsive.html
 
 ## JQuery Examples
